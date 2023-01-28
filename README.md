@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ariwibowo06
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analyst | Data Modelling |
 - 🌱 I’m currently learning python and sql
 
 <!---
